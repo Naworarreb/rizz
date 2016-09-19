@@ -86,7 +86,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
 * [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 * [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser. [Play it now!](http://eugenioclrc.github.io/circushtml5)
-* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
 * [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
@@ -96,6 +95,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
 * [d3shooter](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library. [Play it now!](http://d3shooter.herokuapp.com)
+* [Dat Boi](https://github.com/naveenarun/naveenarun.github.io/tree/master/waddup) - Endless runner game featuring Dat Boi. [Play it now!](http://naveenarun.github.io/waddup/)
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Drakonas](https://github.com/Casmo/Drakonas) - Classic shoot 'em up game build with the Three.js library. [Play it now!](http://www.fellicht.nl/games/drakonas/)
 * [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library. [Play it now!](http://dreamshowadventures.github.io/LudumDare29/)
@@ -114,6 +114,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) - General Hyperspace Waste Management Solutions. [Play it now!](http://razh.github.io/game-off-2013/)
 * [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) - an experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. [Play it now!](http://omarshehata.me/html/ludum/)
 * [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller. [Play it now!](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html)
+* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play it now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
