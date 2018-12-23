@@ -150,6 +150,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play it now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 * [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJS Framework.
 * [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders) - Remake of Space Invaders in require.js. [Play it now!](http://strykerkkd.github.io/SpaceInvaders/)
+* [Squeezing Theorem](https://github.com/anilbey/SqueezingTheorem) - A 2D arcade game where you try to squeeze the AI before it squeezes you.
 * [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine. [Play it now!](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html)
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play it now!](http://www.schillmania.com/survivor/)
 * [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with NodeJS and HTML5
@@ -204,6 +205,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that. [Play it now!](http://aerolab.github.io/blockrain.js/)
 * [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home. [Play it now!](http://henryhoffman.com/branchingout/)
 * [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics. [Play it now!](http://www.kongregate.com/games/Sorobaid/clone-man)
+* [Coloroma](https://github.com/anilbey/Coloroma) - Coloroma is a 3D game developed within 48 hours during the Global Game Jam 2014 event.
 * [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play it now!](http://js13kgames.com/games/couch-2048/index.html)
 * [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play it now!](http://david-peter.de/cube-composer)
 * [Drunken Viking](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play it now!](http://congusbongus.itch.io/drunken-viking)
@@ -247,6 +249,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Beast](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
 * [binb](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game. [Play it now!](https://binb.co)
+* [DoDo](https://github.com/anilbey/GGJ15) - Do Do is the multiplayer platform game we developed in 48 hours during Global Game Jam 2015 event. 
 * [Dental Defender: Saga of the Candy Horde](https://github.com/cshepp/candyjam/) - HTML5 shooter/tower defense game for the #CandyJam. [Play it now!](http://cas002.itch.io/dental-defenders-saga-of-the-candy-horde)
 * [Descensus 2](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
 * [Hauberk](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
